@@ -1,5 +1,6 @@
 # Escludi file di configurazione sensibili
 config.py
+temporanei/
 
 # Ambiente virtuale Python
 .venv/
