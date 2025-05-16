@@ -17,6 +17,11 @@ Questa applicazione Python popola un'istanza di Qdrant con dati provenienti da u
     # cd qdrant-populator
     ```
 
+2. **Preparazione del file di configurazione:**
+   ```bash
+   cp config.example.py config.py
+   ```
+
 2.  **Crea un ambiente virtuale (consigliato):**
     ```bash
     python3 -m venv venv
