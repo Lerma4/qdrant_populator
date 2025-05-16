@@ -1,0 +1,47 @@
+# Escludi file di configurazione sensibili
+config.py
+
+# Ambiente virtuale Python
+.venv/
+
+# Cache di Python
+__pycache__/
+
+# VSCode
+.vscode/
+.code-workspace
+
+# PyCharm
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# IntelliJ
+*.ipr
+*.iws
+*.idea/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# JetBrains Rider
+.idea/
+*.sln
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Altri editor
+*.swp
+*~
+
+# File temporanei comuni
+.DS_Store
+Thumbs.db
